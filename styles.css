@@ -10,6 +10,12 @@ h1{
     margin: 0;
 }
 
+h2{
+    color: ghostwhite;
+    background-color: darkseagreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 h3{
     color: darkslategrey;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
