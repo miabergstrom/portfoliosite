@@ -8,14 +8,14 @@ In this project, I created a basic landing page for myself on the internet.
 * Linked personal GitHub and LinkedIn pages
 
 ## Screenshot
-
+![](https://github.com/miabergstrom/portfoliosite/blob/main/PortfolioSite.png)
 
 ## Setup
 
 ## Project Status
 This is a basic structure of a portfolio website and it is a work in progress. I will add more pages as I get futher into my career and have more work to display. 
 
-## What I learned 
+## What I Learned 
 * Important information to include in your online web presence
 * Creating a website using HTML and CSS
 * How to configure a domain name to a static site
